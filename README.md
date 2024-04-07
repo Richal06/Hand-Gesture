@@ -21,8 +21,8 @@ The project aims to classify sign language gestures using a Random Forest Classi
 Clone the repository and navigate to the project folder:
 
 ```bash
-git clone https://github.com/your-username/sign-language-detector.git
-cd sign-language-detector
+[git clone https://github.com/Richal06/Hand-Gesture.git]
+
 ```
 
 Install the required Python packages:
